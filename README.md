@@ -38,8 +38,8 @@ print(x)
 ```
 
 ## Output:
-![LU Decomposition](ludecomposition1output.PNG)
-![LU Decomposition](ludecomposition2output.PNG)
+![GitHub Logo](.//dimg1.png)
+![GitHub Logo](.//dimg2.png)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
